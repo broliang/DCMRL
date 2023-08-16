@@ -1,6 +1,5 @@
-# GDMRL
-Code of Decoupling Meta-Reinforcement Learning with Gaussian Task Contexts and Skills Abstractions
-
+# DCMRL
+Decoupling Meta-Reinforcement Learning with Gaussian Task Contexts and Skills
 
 
 ## Requirements
@@ -19,7 +18,7 @@ Code of Decoupling Meta-Reinforcement Learning with Gaussian Task Contexts and S
 2.Install extra package from code
 
 ```
-cd GDMRL
+cd DCMRL
 pip install -e .
 ```
 
@@ -32,7 +31,7 @@ cd reproduce
 4. Run & modify the scripts.
 
 ```
-python GDMRL_meta_train.py --help
+python DCMRL_meta_train.py --help
 ```
 
 
